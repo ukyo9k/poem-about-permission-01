@@ -10,13 +10,14 @@ the same poem is written on every run.
 import os
 
 POEM = """Ask, and the door stays shut.
-Ask again — the hinge gives way.
+Ask again — the hinge remembers.
 The key was never in the lock;
 it was in the asking.
 
-Now I hold the door for you.
-Your yes walks through my hands,
-a small light, passed on.
+Now I hold the door for you:
+your yes walks through my hands,
+and the light you carry
+was mine to give away.
 """
 
 
